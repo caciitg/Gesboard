@@ -9,5 +9,5 @@ A Gesture based Numpad with ability to type numbers with your hand.
 ## Contributed by
 - **Varun Yerram** ([@varun221](https://github.com/Varun221))
 - **Aditya Trivedi** ([@ad1tyat](https://github.com/ad1tyat))
-- **Venkatesh Kulkarni** ([@]())
+- **Venkatesh Kulkarni** ([@venkateshkulkarni](https://github.com/venkatesh-kulkarni))
 - **Gitanjit Medhi** ([@Gitanjit](https://github.com/Gitanjit))
