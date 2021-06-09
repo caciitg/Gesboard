@@ -10,4 +10,4 @@ A Gesture based Numpad with ability to type numbers with your hand.
 - **Varun Yerram** ([@varun221](https://github.com/Varun221))
 - **Aditya Trivedi** ([@ad1tyat](https://github.com/ad1tyat))
 - **Venkatesh Kulkarni** ([@]())
-- **Gitanji Medhi** ([@Gitanjit](https://github.com/Gitanjit))
+- **Gitanjit Medhi** ([@Gitanjit](https://github.com/Gitanjit))
